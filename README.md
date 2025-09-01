@@ -87,13 +87,6 @@ Apple-Fitness-Dashboard/
 - **Pandas** - Data manipulation and analysis
 - **NumPy** - Numerical computing
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
